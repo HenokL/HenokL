@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there!👋 I'm Henok, an aspiring Software Engineer and master's student in engineering at the University of Calgary with a curious mind and a passion for problem-solving.<br>
+Hi there!👋 I'm Henok, an aspiring Software Engineer and master's student in Software Engineering at the University of Calgary with a curious mind and a passion for problem-solving.<br>
 
 
 ## 🌐 Socials
