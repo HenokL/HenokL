@@ -1,5 +1,7 @@
 # 💫 About Me
+
 ![Animated Panda](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+
 
 Hi there!👋 I'm Henok, an aspiring Software Engineer and master's student in Software Engineering at the University of Calgary with a curious mind and a passion for problem-solving.<br>
 
