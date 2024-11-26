@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Henok, an aspiring master's student in engineering with a curious mind and a passion for problem-solving. Here's a glimpse into my journey:<br>
+Hi there! I'm Henok, an aspiring master's student in engineering with a curious mind and a passion for problem-solving.<br>
 
 
 ## 🌐 Socials:
