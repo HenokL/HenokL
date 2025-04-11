@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
 </div>
 
-<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 500; color: #4285F4; margin-top: 25px; margin-bottom: 15px;">🐼 JUST FOR FUN 🐼</h3>
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 500; color: #4285F4; margin-top: 25px; margin-bottom: 15px;">🐼 Thanks for visiting my profile! Cheers 🐼</h3>
 <div align="center">
   <img width="800" src="images/KP2.jpg" alt="Kung Fu Panda image" />
 </div>
